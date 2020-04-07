@@ -121,9 +121,12 @@ p {
 }
 
 .credits-table {
-  margin-left: 24%;
   margin-top: 10px;
   margin-bottom: 15px;
+}
+
+.credits-table table {
+  margin: auto;
 }
 
 .credits,
@@ -137,4 +140,8 @@ p {
 .filters-footnote-text {
   margin-top: 5px;
   margin-bottom: 5px;
+}
+
+.bold {
+  font-weight: 700;
 }
