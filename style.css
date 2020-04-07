@@ -57,6 +57,11 @@ section {
   max-width: 1200px;
 }
 
+article {
+  max-width: 275px;
+  height: 367.6px;
+}
+
 .card--1 .card__img,
 .card--1 .card__img--hover {
   background-image: url("https://i.imgur.com/MLc7RIJ.jpg");
