@@ -29,6 +29,7 @@ header {
   color: #444857;
   font-size: 24px;
   height: 125px;
+  margin-top: 30px;
 }
 
 h1 {
@@ -76,8 +77,9 @@ section {
   background-image: url("https://i.imgur.com/i4fmSDI.png");
 }
 
-.card__like {
-  width: 18px;
+.card--5 .card__img,
+.card--5 .card__img--hover {
+  background-image: url("https://i.imgur.com/KBpb4iv.png");
 }
 
 .card__img {
@@ -116,7 +118,7 @@ section {
   margin-right: 25px;
   transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
   background-color: #444857;
-  width: 33.3%;
+  width: 20vw;
   position: relative;
   border-radius: 12px;
   overflow: hidden;
