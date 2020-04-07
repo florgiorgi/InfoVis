@@ -140,6 +140,7 @@ p {
 .filters-footnote-text {
   margin-top: 5px;
   margin-bottom: 5px;
+  font-size: 12px !important;
 }
 
 .bold {
