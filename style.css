@@ -87,6 +87,11 @@ article {
   background-image: url("https://i.imgur.com/KBpb4iv.png");
 }
 
+.card--6 .card__img,
+.card--6 .card__img--hover {
+  background-image: url("https://i.imgur.com/kAd6AG1.png");
+}
+
 .card__img {
   visibility: hidden;
   background-size: cover;
