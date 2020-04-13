@@ -24,9 +24,14 @@ html {
   height: auto;
 }
 
-.tableauPlaceholder {
-  width: 800px;
-  height: 800px;
+.pic-holder {
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  width: 1000px;
+  height: 600px;
   margin-bottom: 40px;
   border: 1.5px solid #ddd;
 }
