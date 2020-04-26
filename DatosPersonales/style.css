@@ -103,7 +103,6 @@ p {
 }
 
 .section-2 {
-  margin-top: 10px;
   margin-bottom: 10px;
 }
 
@@ -150,6 +149,7 @@ p {
 
 #top10-title {
   width: 100%;
+  padding-top: 20px;
 }
 
 .white-p {
@@ -163,6 +163,7 @@ p {
 
 .section-5 {
   height: auto;
+  padding-top: 15px;
   background-color: #f9f9f9;
   padding-bottom: 20px;
 }
