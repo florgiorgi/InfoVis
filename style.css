@@ -97,6 +97,11 @@ article {
   background-image: url("https://i.imgur.com/Zlm16qk.png");
 }
 
+.card--8 .card__img,
+.card--8 .card__img--hover {
+  background-image: url("./Thumbnails/bataxi.png");
+}
+
 .card__img {
   visibility: hidden;
   background-size: cover;
