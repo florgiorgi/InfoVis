@@ -99,7 +99,7 @@ article {
 
 .card--8 .card__img,
 .card--8 .card__img--hover {
-  background-image: url("./Thumbnails/bataxi.png");
+  background-image: url("https://raw.githubusercontent.com/florgiorgi/InfoVis/gh-pages/Thumbnails/bataxi.png");
 }
 
 .card__img {
