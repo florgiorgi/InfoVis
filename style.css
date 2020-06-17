@@ -102,6 +102,11 @@ article {
   background-image: url("https://raw.githubusercontent.com/florgiorgi/InfoVis/gh-pages/Thumbnails/bataxi.png");
 }
 
+.card--9 .card__img,
+.card--9 .card__img--hover {
+  background-image: url("https://raw.githubusercontent.com/florgiorgi/InfoVis/gh-pages/Thumbnails/defunciones.png");
+}
+
 .card__img {
   visibility: hidden;
   background-size: cover;
